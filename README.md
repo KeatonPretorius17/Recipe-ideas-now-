@@ -2,7 +2,6 @@
 A recipe applcation using a API to retreive recipe infomration.
 
 The main features of this application
-
 -Search for a recipe
 -Pagination
 -Bookmark recipe
@@ -11,11 +10,11 @@ The main features of this application
 -Push bookmarks recipes to LocalStorage
 
 
-[image](https://user-images.githubusercontent.com/81362041/178457676-160dcbab-961e-46c6-bb09-72c45cefab33.png)
+![Capture](https://user-images.githubusercontent.com/81362041/178458595-677eca3b-2778-4def-84fb-298bde67a15c.PNG)
+
 
 
 Skill used to build this project 
-
 -The MVC Architecture (Model-View-Controller)
 -Variables, global state
 -Objects
