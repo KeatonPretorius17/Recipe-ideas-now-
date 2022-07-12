@@ -1,4 +1,3 @@
-Recipe Ideas Now 
 
 A recipe applcation using a API to retreive recipe infomration.
 
@@ -10,6 +9,9 @@ The main features of this application
 -Customize servings (increase or decrease the qty of each ingreadient by adjusting the servings)
 -Create you own recipe
 -Push bookmarks recipes to LocalStorage
+
+
+[image](https://user-images.githubusercontent.com/81362041/178457676-160dcbab-961e-46c6-bb09-72c45cefab33.png)
 
 
 Skill used to build this project 
